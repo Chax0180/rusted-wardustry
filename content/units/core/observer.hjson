@@ -10,6 +10,9 @@ buildBeamOffset: 3
 buildSPeed: 0.05
 itemCapacity: 30
 hitSize: 4
+hittable: false
+targetable: false
+physics: true
 engines: [
   {
     x: 0
