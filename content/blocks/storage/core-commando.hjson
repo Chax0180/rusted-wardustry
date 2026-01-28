@@ -1,0 +1,22 @@
+type: CoreBlock
+name: Core: Commando
+description: Core of the base. Heavily armored.
+requirements: [
+  silicon/3000
+]
+isFirstTier: true
+size: 2
+squareSprite: false
+alwaysUnlocked: true
+unitType: observer
+health: 4000
+itemCapacity: 4500
+unitCapModifier: 15
+category: effect
+research: {
+  planet: graellsia
+  root: true
+  name: Graellsia
+  requiresUnlock: false
+}
+details: Stores a small amount of resources. Construct more to increase budget.
