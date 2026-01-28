@@ -1,0 +1,11 @@
+type: mech
+name: Builder
+description: Defenseless. Builds and repairs structures.
+speed: 0.5
+health: 170
+controller: RepairAI
+commands: [move, repair, rebuild, assist]
+hovering: true
+itemCapacity: 0
+hitSize: 5
+researchCostMultiplier: 0.1
