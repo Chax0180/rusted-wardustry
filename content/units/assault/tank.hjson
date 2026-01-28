@@ -34,6 +34,7 @@ weapons: [
         height: 11
         lifetime: 60
   }
+  }
 research:{
 parent: basic-ground-assembler 
 }
