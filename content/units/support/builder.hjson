@@ -19,11 +19,13 @@ hovering: true
 itemCapacity: 0
 hitSize: 5
 physics: true
+canAttack: false
+rotateMoveFirst: true
 engines: [
   {
     x: 0
-    y: -3
-    radius: 1.6
+    y: -5
+    radius: 2
   }
 ]
 researchCostMultiplier: 0
