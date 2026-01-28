@@ -1,0 +1,28 @@
+type: UnitFactory
+name: Basic Ground Assembler
+description: Produces basic ground units.
+seperateItemCapacity: true
+size: 2
+plans: [
+  {
+    unit: builder
+    requirements: [
+    silicon/500
+    ]
+    time: 1800
+  }
+  {
+    unit: tank
+    requirements: [
+    silicon/350
+    ]
+    time: 1800
+  }
+]
+requirements: [
+silicon/700
+]
+research: core-commander
+category:units
+ambientSound: respawning
+ambientSoundVolume: 0.15
