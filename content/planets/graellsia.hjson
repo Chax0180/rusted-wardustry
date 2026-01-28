@@ -10,11 +10,11 @@ mesh:[
     planet: graellsia
     divisions: 5
     seed: 7
-    radius: 1.229
+    radius: 0.815
     color1: 5757c1
     color2: 88a4ff
-    octaves: 3.7
-    persistence: 1.1
+    octaves: 3.2
+    persistence: 1
   }
 ]
 cloudMesh: [
