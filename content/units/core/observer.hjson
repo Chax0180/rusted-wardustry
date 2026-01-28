@@ -13,6 +13,8 @@ hitSize: 4
 hittable: false
 targetable: false
 physics: true
+coreUnitDock: true
+canAttack: false
 engines: [
   {
     x: 0
