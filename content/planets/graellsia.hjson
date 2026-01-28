@@ -16,6 +16,18 @@ mesh:[
     octaves: 3.2
     persistence: 1
   }
+ {
+    //stone
+    type: NoiseMesh
+    planet: graellsia
+    divisions: 7
+    seed: 9
+    radius: 0.813
+    color1: 6e7080
+    color2: 989aa4
+    octaves: 4
+    persistence: 1
+  }
 ]
 cloudMesh: [
  {
