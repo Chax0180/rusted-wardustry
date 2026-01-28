@@ -20,7 +20,7 @@ mesh:[
     //stone
     type: NoiseMesh
     planet: graellsia
-    divisions: 7
+    divisions: 4
     seed: 9
     radius: 0.813
     color1: 6e7080
