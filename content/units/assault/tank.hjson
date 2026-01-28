@@ -1,6 +1,6 @@
 type: tank
 name: Tank
-description: Fires shocking energy beams at enemies.
+description: Fires bullets at enemy targets.
 hitSize: 6
 treadPullOffset: 3
 omniMovement: false
