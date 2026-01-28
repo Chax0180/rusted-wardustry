@@ -12,7 +12,7 @@ mesh:[
     seed: 7
     radius: 0.815
     color1: 5757c1
-    color2: 88a4ff
+    color2: ffffff
     octaves: 3.2
     persistence: 1
   }
