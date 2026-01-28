@@ -22,7 +22,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: graellsia
    speed: 1.21
-   radius: 0.1
+   radius: 0.25
    divisions: 6
    color: c1dff54D
    octaves: 3
