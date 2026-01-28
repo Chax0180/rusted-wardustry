@@ -35,6 +35,7 @@ weapons: [
         lifetime: 60
   }
   }
+]
 research:{
 parent: basic-ground-assembler 
 }
