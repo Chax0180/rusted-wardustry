@@ -1,0 +1,37 @@
+type: tank
+name: Tank
+description: Fires shocking energy beams at enemies.
+hitSize: 6
+treadPullOffset: 3
+omniMovement: false
+faceTarget: false
+speed: 1.65
+rotateSpeed: 2
+health: 210
+armor: 1
+itemCapacity: 0
+treadRects:[
+  {
+    x: 1
+    y: -1
+    width: 1
+    height: 1
+  }
+]
+weapons: [
+  {
+    x: 0
+    y: 1
+    name: tank-cannon
+    reload: 75
+    rotate: true
+    mirror: false
+    shootSound: shootDuo
+    bullet: {
+      type: BasicBulletType
+        damage: 25
+        width: 6
+        height: 11
+        lifetime: 60
+  }
+research: basic-assembler 
