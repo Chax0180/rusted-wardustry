@@ -1,0 +1,15 @@
+name: rwdstry
+description:'''
+Adds content based on Rusted Warfare to Mindustry.
+'''
+author: Chax0180
+minGameVersion: 146
+version: I'm not going to remember to update this.
+displayName: "Rusted Wardustry"
+subtitle: "Try the actual game!"
+repo: "Chax0180/rusted-wardustry"
+
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: false
