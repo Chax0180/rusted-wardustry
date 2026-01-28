@@ -24,7 +24,7 @@ cloudMesh: [
    speed: 1.21
    radius: 0.1
    divisions: 6
-   color: c1dff5
+   color: c1dff54D
    octaves: 3
    persistence: 0.3
    scl: 1
