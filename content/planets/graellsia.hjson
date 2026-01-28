@@ -31,7 +31,6 @@ cloudMesh: [
    thresh: 0.6
   }
 ]
-}
 orbitRadius: 80
 sectorSize: 1
 allowLaunchSchematics: false
