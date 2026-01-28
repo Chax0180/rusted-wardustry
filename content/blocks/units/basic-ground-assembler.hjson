@@ -23,6 +23,7 @@ requirements: [
 silicon/700
 ]
 research: core-commando
+researchCostMultiplier: 0
 category:units
 ambientSound: respawning
 ambientSoundVolume: 0.15
