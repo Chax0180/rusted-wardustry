@@ -1,7 +1,7 @@
 type: mech
 name: Builder
 description: Defenseless. Builds and repairs structures.
-speed: 2
+speed: 3
 shadowElevation: 0.1
 mechFrontSway: 0
 mechSideSway: 0
@@ -19,3 +19,10 @@ itemCapacity: 0
 hitSize: 5
 researchCostMultiplier: 0.1
 research: basic-ground-assembler
+engines: [
+  {
+    x: 0
+    y: -3
+    radius: 1.6
+  }
+]
