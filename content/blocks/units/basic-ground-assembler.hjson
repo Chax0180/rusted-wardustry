@@ -22,7 +22,7 @@ plans: [
 requirements: [
 silicon/700
 ]
-research: core-commander
+research: core-commando
 category:units
 ambientSound: respawning
 ambientSoundVolume: 0.15
