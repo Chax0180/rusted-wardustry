@@ -18,6 +18,7 @@ buildBeamOffset: 3
 hovering: true
 itemCapacity: 0
 hitSize: 5
+physics: true
 engines: [
   {
     x: 0
