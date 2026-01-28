@@ -1,1 +1,22 @@
-
+type: flying
+name: Observer
+description: Commands units and builds structures. Has no offensive capabilities on its own.
+speed: 3
+drag: 0.08
+rotateSpeed: 5
+accel: 0.2
+health: 100
+buildBeamOffset: 3
+buildSPeed: 0.05
+itemCapacity: 30
+hitSize: 4
+engines: [
+  {
+    x: 0
+    y: -4
+    radius: 2
+  }
+]
+research:{
+parent: core-commando
+}
