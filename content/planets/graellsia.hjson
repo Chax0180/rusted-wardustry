@@ -1,7 +1,7 @@
 localizedName: Graellsia
 description: A lush planet, rich with silicon. Plagued by constant war between foreign machines.
 alwaysUnlocked: true
-atmosphereColor: 869cbe
+atmosphereColor: 869cbe66
 iconColor: 84a2b8
 mesh:[
  {
